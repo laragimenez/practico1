@@ -1,7 +1,13 @@
 Comandos de github
 
 comando para guardar archivos
-*git add _nombre archivo_
-*git commit -m "__"
-*git commit -am "__" #lo guarda y confirma
 
+* git add _nombre archivo_
+* git commit -m "__"
+* git commit -am "__" #lo guarda y confirma
+
+comando para eliminar archivos
+
+* git reset --soft HEAD
+* git reset --mixed HEAD
+* git reset --hard HEAD
