@@ -1,0 +1,7 @@
+Comandos de github
+
+comando para guardar archivos
+*git add _nombre archivo_
+*git commit -m "__"
+*git commit -am "__" #lo guarda y confirma
+
