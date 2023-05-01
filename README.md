@@ -4,4 +4,6 @@ Creamos un archivo dentro la carpeta llamada README.md
 
 El siguiente paso fue clonar el repositorio utilizando el enlace desde hithub.
 
+creamos un nuevo archivo capturas.html, y realizamos los git add "guradado"
+y los git commit de README.md y de captura.html
 
